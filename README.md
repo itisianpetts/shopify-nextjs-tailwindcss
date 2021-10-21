@@ -2,6 +2,20 @@
 
 https://shopify-nextjs-tailwindcss.vercel.app/
 
+# Site Preview
+
+![1](https://user-images.githubusercontent.com/66824231/138318476-5bb834ee-6a6f-4a60-a73c-110e214a528a.jpg)
+
+![2](https://user-images.githubusercontent.com/66824231/138318490-31fc2fd0-312c-4b72-8afc-88af69ac632c.jpg)
+
+![3](https://user-images.githubusercontent.com/66824231/138318498-21e994bd-158b-4a6a-be2b-3138e902b519.jpg)
+
+![4](https://user-images.githubusercontent.com/66824231/138318512-fe9a0963-a141-41df-be0a-da60f3234e6f.jpg)
+
+# Thanks For Looking
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
